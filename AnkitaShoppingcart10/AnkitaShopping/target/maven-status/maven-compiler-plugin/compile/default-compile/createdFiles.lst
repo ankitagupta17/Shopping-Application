@@ -1,0 +1,16 @@
+com\cart\entity\ItemResponse.class
+com\cart\Model\CategoryModel.class
+com\cart\service\serviceImpl\ItemServiceImpl.class
+com\cart\entity\CategoryEntity.class
+com\cart\repository\CategoryRepository.class
+com\cart\entity\ItemEntity.class
+com\cart\repository\ItemRepository.class
+com\cart\Exceptions\CategoryNotFoundException.class
+com\cart\service\ItemService.class
+com\cart\controller\ItemController.class
+com\cart\Exceptions\ControllerAdvice.class
+com\cart\Model\ItemModel.class
+com\cart\entity\CategoryKey.class
+com\cart\Exceptions\GenericException.class
+com\cart\ShoppingApplication.class
+com\cart\entity\CategoryResponse.class
